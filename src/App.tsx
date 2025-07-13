@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import SupplyGuardAI from './components/SupplyGuardAI';
 
 const App = () => {
