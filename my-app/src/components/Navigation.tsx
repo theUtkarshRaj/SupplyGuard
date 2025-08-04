@@ -1,5 +1,5 @@
 import React from 'react';
-import { BarChart3, Users, AlertTriangle, Globe, TrendingUp } from 'lucide-react';
+import { BarChart3, Users, AlertTriangle, Globe } from 'lucide-react';
 
 interface NavigationProps {
   activeTab: string;
