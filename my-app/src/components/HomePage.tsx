@@ -25,9 +25,9 @@ const HomePage: React.FC<SupplyGuardAIProps> = ({ activeTab, setActiveTab, curre
     const fetchAllData = async () => {
       try {
         const [supplierRes, alertRes, newsRes] = await Promise.all([
-          fetch('http://localhost:8000/api/suppliers'),
-          fetch('http://localhost:8000/api/alerts'),
-          fetch('http://localhost:8000/api/news')
+          fetch('https://supplyguard-backend.onrender.com/api/suppliers'),
+          fetch('https://supplyguard-backend.onrender.com/api/alerts'),
+          fetch('https://supplyguard-backend.onrender.com/api/news')
         ]);
 
         const supplierData = await supplierRes.json();
