@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "headline": "AI Supply Chain Could Face a Massive Disruption As Demand For TSMC's CoWoS Packaging Reaches To Unusual Levels",
+    "source": "GNews",
+    "timestamp": "2025-05-27T18:13:18Z",
+    "relevantSuppliers": [
+      "TSMC"
+    ],
+    "impact": "Medium",
+    "date": "2025-05-27T18:13:18Z"
+  },
+  {
+    "id": 2,
+    "headline": "West Midlands Railway major disruption as firm 'can't get parts to keep trains on tracks'",
+    "source": "GNews",
+    "timestamp": "2025-03-15T04:52:00Z",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2025-03-15T04:52:00Z"
+  },
+  {
+    "id": 3,
+    "headline": "Shipping giant Maersk sees another year of disruption for global trade",
+    "source": "GNews",
+    "timestamp": "2024-12-13T14:39:26Z",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2024-12-13T14:39:26Z"
+  },
+  {
+    "id": 4,
+    "headline": "Closure of Holyhead port has caused 'considerable disruption' to supply chain, exporters say",
+    "source": "GNews",
+    "timestamp": "2024-12-12T11:30:24Z",
+    "relevantSuppliers": [
+      "FREIGHT"
+    ],
+    "impact": "Medium",
+    "date": "2024-12-12T11:30:24Z"
+  },
+  {
+    "id": 5,
+    "headline": "Sitharaman Highlights Inflation, Supply Woes",
+    "source": "GNews",
+    "timestamp": "2024-12-11T12:10:00Z",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2024-12-11T12:10:00Z"
+  },
+  {
+    "id": 6,
+    "headline": "Retail outages drag into second week after Blue Yonder ransomware attack",
+    "source": "GNews",
+    "timestamp": "2024-12-02T12:38:39Z",
+    "relevantSuppliers": [
+      "Blue Yonder"
+    ],
+    "impact": "Medium",
+    "date": "2024-12-02T12:38:39Z"
+  },
+  {
+    "id": 7,
+    "headline": "UK to 'war-game' how frontline British troops could be equipped with weapons amid supply chain disruption",
+    "source": "GNews",
+    "timestamp": "2024-12-02T00:00:00Z",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2024-12-02T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "headline": "Supply chain disruption caused by Woolworths warehouse strike leading to staff abuse, union says",
+    "source": "GNews",
+    "timestamp": "2024-11-28T03:37:53Z",
+    "relevantSuppliers": [
+      "Allied Employees' Association"
+    ],
+    "impact": "Medium",
+    "date": "2024-11-28T03:37:53Z"
+  },
+  {
+    "id": 9,
+    "headline": "UK, US retail giants hit by ongoing disruption after ransomware attack on supply chain firm",
+    "source": "GNews",
+    "timestamp": "2024-11-26T14:00:05Z",
+    "relevantSuppliers": [
+      "Blue Yonder"
+    ],
+    "impact": "Medium",
+    "date": "2024-11-26T14:00:05Z"
+  },
+  {
+    "id": 10,
+    "headline": "Medical equipment makers call for more domestic production, tariffs",
+    "source": "GNews",
+    "timestamp": "2024-11-04T15:52:11Z",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2024-11-04T15:52:11Z"
+  },
+  {
+    "id": 11,
+    "headline": "Promising Penny Stocks To Follow Now – July 12th",
+    "source": "GNews",
+    "timestamp": "2025-07-15 11:41:09",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-15 11:41:09"
+  },
+  {
+    "id": 12,
+    "headline": "Milk Thistle Products Market Set to Soar to USD 3.81 Billion by 2034, Achieving Robust 8.88 Percent CAGR",
+    "source": "GNews",
+    "timestamp": "2025-07-15 11:35:47",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-15 11:35:47"
+  },
+  {
+    "id": 13,
+    "headline": "Subsea Cable Installation Equipment Market Outlook Report 2025-2034 Technological Advancements Propel Efficiency, AI And Dynamic Systems Lead The Way",
+    "source": "GNews",
+    "timestamp": "2025-07-15 11:31:52",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-15 11:31:52"
+  },
+  {
+    "id": 14,
+    "headline": "Asbestos Packing With PTFE Impregnation Outlook Report 2025 Market To Surpass $325 Million By 2032 - Safer, High-Performance Non-Asbestos Packings On The Rise",
+    "source": "GNews",
+    "timestamp": "2025-07-15 11:31:51",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-15 11:31:51"
+  },
+  {
+    "id": 15,
+    "headline": "Private sector proposals approved as govt. urges faster currency allocation for livestock imports",
+    "source": "GNews",
+    "timestamp": "2025-07-15 11:31:36",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-15 11:31:36"
+  },
+  {
+    "id": 16,
+    "headline": "Non-Stick Cookware Coating (PTFE, Ceramic, Anodized Aluminum) Market Outlook 2025-2034 Shift Towards Ceramic And Titanium Coatings Drives Non-Toxic Cookware Demand",
+    "source": "GNews",
+    "timestamp": "2025-07-15 11:31:19",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-15 11:31:19"
+  },
+  {
+    "id": 17,
+    "headline": "Europe Sodium Perborate Market Size, Growth Factors, Historical Analysis and Industry Segments Forecast - 2032",
+    "source": "GNews",
+    "timestamp": "2025-07-15 11:30:45",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-15 11:30:45"
+  },
+  {
+    "id": 18,
+    "headline": "India Signs 5-Year DAP Fertiliser Deal with Saudi Arabia Amid Chinese Export Restrictions",
+    "source": "GNews",
+    "timestamp": "2025-07-15 11:30:39",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-15 11:30:39"
+  },
+  {
+    "id": 19,
+    "headline": "Industrial Labels Market Segmentation by Type, Application, Regions, Key News and Top Companies Profiles",
+    "source": "GNews",
+    "timestamp": "2025-07-15 11:29:39",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-15 11:29:39"
+  },
+  {
+    "id": 20,
+    "headline": "Industrial Bearings Market to Reach USD 25.8 Billion by 2034, Driven by Smart Manufacturing and Clean Energy Growth",
+    "source": "GNews",
+    "timestamp": "2025-07-15 11:28:19",
+    "relevantSuppliers": [
+      "Unknown Supplier"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-15 11:28:19"
+  }
+]

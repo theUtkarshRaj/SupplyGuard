@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "headline": "Taiwan Strait Tensions Rise, Affecting Global Supply Chains",
+    "source": "Global Trade News",
+    "timestamp": "2 hours ago",
+    "relevantSuppliers": [
+      "S001"
+    ],
+    "impact": "High",
+    "date": "2025-07-13T03:02:00Z"
+  },
+  {
+    "id": 2,
+    "headline": "EU Strengthens Labor Compliance Regulations for Textile Industry",
+    "source": "European Business Daily",
+    "timestamp": "4 hours ago",
+    "relevantSuppliers": [
+      "S002"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-13T01:02:00Z"
+  },
+  {
+    "id": 3,
+    "headline": "Climate Change Impacts on Agriculture Intensify in North America",
+    "source": "Agricultural Times",
+    "timestamp": "6 hours ago",
+    "relevantSuppliers": [
+      "S004"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-12T23:02:00Z"
+  },
+  {
+    "id": 4,
+    "headline": "India Announces New Pharmaceutical Export Regulations",
+    "source": "Pharma Journal",
+    "timestamp": "5 hours ago",
+    "relevantSuppliers": [
+      "S005"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-13T00:02:00Z"
+  },
+  {
+    "id": 5,
+    "headline": "Brazil Faces Scrutiny Over Deforestation in Apparel Supply Chains",
+    "source": "Environmental Watch",
+    "timestamp": "6 hours ago",
+    "relevantSuppliers": [
+      "S006"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-12T23:02:00Z"
+  },
+  {
+    "id": 6,
+    "headline": "China Imposes New Trade Restrictions on Chemical Exports",
+    "source": "Trade Weekly",
+    "timestamp": "3 hours ago",
+    "relevantSuppliers": [
+      "S008"
+    ],
+    "impact": "High",
+    "date": "2025-07-13T02:02:00Z"
+  },
+  {
+    "id": 7,
+    "headline": "Dubai Port Congestion Disrupts Middle East Logistics",
+    "source": "Logistics Today",
+    "timestamp": "4 hours ago",
+    "relevantSuppliers": [
+      "S009"
+    ],
+    "impact": "Medium",
+    "date": "2025-07-13T01:02:00Z"
+  },
+  {
+    "id": 8,
+    "headline": "Sweden Leads in Sustainable Packaging Innovations",
+    "source": "Sustainability News",
+    "timestamp": "2 hours ago",
+    "relevantSuppliers": [
+      "S007"
+    ],
+    "impact": "Low",
+    "date": "2025-07-13T03:02:00Z"
+  }
+]

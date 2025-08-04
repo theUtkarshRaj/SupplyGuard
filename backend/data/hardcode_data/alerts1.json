@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "supplier": "Pacific Electronics Co.",
+    "type": "Geopolitical",
+    "severity": "High",
+    "message": "Escalating tensions in Taiwan Strait affecting shipping routes",
+    "timestamp": "2 hours ago",
+    "impact": "Potential 30% delay in electronics shipments"
+  },
+  {
+    "id": 2,
+    "supplier": "European Textiles Ltd.",
+    "type": "ESG",
+    "severity": "Medium",
+    "message": "Labor compliance violations detected through news monitoring",
+    "timestamp": "4 hours ago",
+    "impact": "Reputational risk, potential regulatory action"
+  },
+  {
+    "id": 3,
+    "supplier": "Americas Food Processing",
+    "type": "Climate",
+    "severity": "Medium",
+    "message": "Drought conditions affecting crop production capacity",
+    "timestamp": "6 hours ago",
+    "impact": "Possible 15% reduction in food product availability"
+  },
+  {
+    "id": 4,
+    "supplier": "Global Pharma Ltd.",
+    "type": "Regulatory",
+    "severity": "Medium",
+    "message": "New export regulations impacting pharmaceutical shipments",
+    "timestamp": "5 hours ago",
+    "impact": "Potential delays in medical supply chain"
+  },
+  {
+    "id": 5,
+    "supplier": "South American Apparel",
+    "type": "ESG",
+    "severity": "Medium",
+    "message": "Deforestation concerns raised in supply chain operations",
+    "timestamp": "6 hours ago",
+    "impact": "Reputational and regulatory risks"
+  },
+  {
+    "id": 6,
+    "supplier": "East Asia Chemicals",
+    "type": "Geopolitical",
+    "severity": "High",
+    "message": "Trade restrictions disrupting chemical exports",
+    "timestamp": "3 hours ago",
+    "impact": "Potential 25% reduction in chemical supply"
+  },
+  {
+    "id": 7,
+    "supplier": "Middle East Logistics",
+    "type": "Operational",
+    "severity": "Medium",
+    "message": "Port congestion reported in Dubai affecting logistics",
+    "timestamp": "4 hours ago",
+    "impact": "Possible delays in delivery schedules"
+  },
+  {
+    "id": 8,
+    "supplier": "Nordic Packaging Co.",
+    "type": "Positive",
+    "severity": "Low",
+    "message": "New eco-friendly packaging solutions implemented",
+    "timestamp": "2 hours ago",
+    "impact": "Positive impact on sustainability goals"
+  }
+]

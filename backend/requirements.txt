@@ -1,0 +1,9 @@
+requests
+pandas
+python-dotenv
+spacy
+geopy
+tqdm
+fastapi
+uvicorn
+google-generativeai
