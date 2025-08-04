@@ -10,7 +10,7 @@ app = FastAPI()
 # Allow CORS for frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://supplyguard-12mp.onrender.com/5173"],  # Your Vite frontend
+    allow_origins=["https://supplyguard-12mp.onrender.com"],  # Your Vite frontend
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
